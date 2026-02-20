@@ -50,12 +50,12 @@ conda env create -f environment.yml
 
 Activar entorno:
 ```bash
-conda activate landsat_sentinel2_downloader
+conda activate rs
 ```
 
 Registrar kernel para Jupyter:
 ```bash
-python -m ipykernel install --user --name landsat_sentinel2_downloader --display-name "Python (landsat_sentinel2_downloader)"
+python -m ipykernel install --user --name rs --display-name "Python (landsat_sentinel2_downloader)"
 ```
 
 ## 4) Abrir Jupyter
