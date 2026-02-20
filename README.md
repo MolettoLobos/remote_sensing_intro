@@ -9,7 +9,6 @@ Incluye un entorno listo para trabajar con:
 - Python 3.12
 - JupyterLab / Notebook
 - Librerías geoespaciales y de teledetección
-- Google Earth Engine (GEE)
 
 ## 1) Instalar herramientas base
 Antes de usar el repo, instala:
