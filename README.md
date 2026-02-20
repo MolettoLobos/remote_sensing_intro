@@ -1,7 +1,7 @@
-# landsat_sentinel2_downloader
+# remote_sensing_intro
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
-[![CI/CD Status](https://github.com/agrospace/landsat_sentinel2_downloader/actions/workflows/CICD_ETL.yaml/badge.svg)](https://github.com/agrospace/landsat_sentinel2_downloader/actions/workflows/CICD_ETL.yaml)
+[![CI/CD Status](https://github.com/<tu-usuario>/remote_sensing_intro/actions/workflows/CICD_ETL.yaml/badge.svg)](https://github.com/<tu-usuario>/remote_sensing_intro/actions/workflows/CICD_ETL.yaml)
 
 Repository for Sentinel-2 and Landsat data download for Sen2Like (S2L) assimilation and processing.
 
@@ -39,13 +39,13 @@ python --version
 ## 2) Descargar este repositorio
 Si ya tienes el repositorio en GitHub, clónalo:
 ```bash
-git clone https://github.com/<tu-usuario>/landsat_sentinel2_downloader.git
-cd landsat_sentinel2_downloader
+git clone https://github.com/<tu-usuario>/remote_sensing_intro.git
+cd remote_sensing_intro
 ```
 
 Si estás trabajando localmente en esta carpeta, solo entra al directorio del proyecto:
 ```bash
-cd landsat_sentinel2_downloader
+cd remote_sensing_intro
 ```
 
 ## 3) Crear y activar el entorno de trabajo
@@ -87,6 +87,6 @@ git init
 git add .
 git commit -m "Initial commit: intro + conda environment"
 git branch -M main
-git remote add origin https://github.com/<tu-usuario>/landsat_sentinel2_downloader.git
+git remote add origin https://github.com/<tu-usuario>/remote_sensing_intro.git
 git push -u origin main
 ```
