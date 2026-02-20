@@ -1,11 +1,6 @@
 # remote_sensing_intro
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
-[![CI/CD Status](https://github.com/<tu-usuario>/remote_sensing_intro/actions/workflows/CICD_ETL.yaml/badge.svg)](https://github.com/<tu-usuario>/remote_sensing_intro/actions/workflows/CICD_ETL.yaml)
-
-Repository for Sentinel-2 and Landsat data download for Sen2Like (S2L) assimilation and processing.
-
-![Example Image](imgs/AS-S2L.drawio.png)
 
 ## Objetivo de este repositorio
 Este repositorio es una introducción para estudiantes que empiezan desde cero en teledetección con Python.
