@@ -73,15 +73,3 @@ Si editas `environment.yml`, actualiza paquetes con:
 ```bash
 conda env update -f environment.yml --prune
 ```
-
-## 6) Publicar el repo en GitHub (público)
-1. Crea un repositorio público en GitHub (sin inicializar con README).
-2. Desde esta carpeta, ejecuta:
-```bash
-git init
-git add .
-git commit -m "Initial commit: intro + conda environment"
-git branch -M main
-git remote add origin https://github.com/<tu-usuario>/remote_sensing_intro.git
-git push -u origin main
-```
