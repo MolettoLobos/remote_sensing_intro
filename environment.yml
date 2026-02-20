@@ -1,4 +1,4 @@
-name: landsat_sentinel2_downloader
+name: rs
 channels:
   - conda-forge
   - defaults
