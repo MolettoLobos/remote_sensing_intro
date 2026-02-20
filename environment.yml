@@ -1,0 +1,37 @@
+name: landsat_sentinel2_downloader
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - cdsapi
+  - xarray
+  - python-cdo
+  - ipython
+  - netcdf4
+  - gdal
+  - scikit-image
+  - lmfit
+  - statsmodels
+  - scikit-learn
+  - seaborn
+  - geopandas
+  - rioxarray
+  - rasterio
+  - numba
+  - openeo
+  - earthengine-api
+  - geemap
+  - spectral
+  - imageio
+  - pyproj
+  - magics
+  - pip
+  - pip:
+      - tqdm_joblib
