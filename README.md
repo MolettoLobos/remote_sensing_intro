@@ -55,7 +55,7 @@ conda activate rs
 
 Registrar kernel para Jupyter:
 ```bash
-python -m ipykernel install --user --name rs --display-name "Python (landsat_sentinel2_downloader)"
+python -m ipykernel install --user --name rs --display-name "Python (rs)"
 ```
 
 ## 4) Abrir Jupyter
